@@ -1,0 +1,144 @@
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Core\obj\Debug\net7.0\ref\Core.dll

@@ -1,0 +1,228 @@
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\Business\obj\Debug\net7.0\ref\Business.dll

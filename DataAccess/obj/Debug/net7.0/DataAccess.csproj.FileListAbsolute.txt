@@ -1,0 +1,204 @@
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -1\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProject -3- Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -4- Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -5- Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -6- Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -7- Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -8- Kopya - Kopya - Kopya - Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -9- Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -10- Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -11- Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\MyFinalProjet -12- Kopya - Kopya\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
